@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.9" apprev="17983" start="node1">
+  <panorama id="node1">
+    <input overlap="1" levelingroll="0" height="4371" leveltilesize="510" width="4371" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="4371" width="4371" predecode="0" preload="0"/>
+      <level height="2185" width="2185" predecode="0" preload="0"/>
+      <level height="1092" width="1092" predecode="0" preload="0"/>
+      <level height="546" width="546" predecode="0" preload="0"/>
+      <level height="273" width="273" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" scaletofit="1" fov="120" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" tags="TIFF" description="" info="" longitude="" heading="0" title="Glasshouse 6" source="" datetime="10/7/2021 2:19 PM" author="Joel V. Garcia" copyright="@ 2017" customnodeid="" latitude="" nodeid="node1"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label wordwrap="1" enabled="1" height="20" textalpha="1" width="180" backgroundalpha="1" borderalpha="1" background="1" borderradius="1" textcolor="0x000000" bordercolor="0x000000" backgroundcolor="0xffffff" border="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-6.37" description="" skinid="ht_node" title="Glasshouse 4" pan="-342.77" url="{node3}" target="-171.5/-5.8/70.0" id="Point02"/>
+      <hotspot tilt="-5.99" description="" skinid="ht_node" title="Glasshouse 1" pan="-285.38" url="{node5}" target="" id="Point03"/>
+      <hotspot tilt="-12.84" description="" skinid="ht_node" title="Glasshouse 5" pan="-43.06" url="{node2}" target="-134.9/-3.2/70.0" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" softedge="0" zoomfov="20" enabled="1" zoomspeed="2" zoomin="0" blendcolor="0x000000" blendtime="1" zoomoutpause="1" zoomout="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertwheel="0" lockedmouse="0" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" hideabout="0" rubberband="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" lockedwheel="0" speedwheel="1" lockedkeyboard="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node2">
+    <input overlap="1" levelingroll="0" height="4379" leveltilesize="510" width="4379" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="4379" width="4379" predecode="0" preload="0"/>
+      <level height="2189" width="2189" predecode="0" preload="0"/>
+      <level height="1094" width="1094" predecode="0" preload="0"/>
+      <level height="547" width="547" predecode="0" preload="0"/>
+      <level height="273" width="273" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" scaletofit="1" fov="120" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" tags="TIFF" description="" info="" longitude="" heading="0" title="Glasshouse 5" source="" datetime="10/7/2021 2:32 PM" author="Joel V. Garcia" copyright="@ 2017" customnodeid="" latitude="" nodeid="node2"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label wordwrap="1" enabled="1" height="20" textalpha="1" width="180" backgroundalpha="1" borderalpha="1" background="1" borderradius="1" textcolor="0x000000" bordercolor="0x000000" backgroundcolor="0xffffff" border="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-15.85" description="" skinid="ht_node" title="Glasshouse 4" pan="-154.25" url="{node3}" target="" id="Point01"/>
+      <hotspot tilt="-12.88" description="" skinid="ht_node" title="Glasshouse 6" pan="-82.47" url="{node1}" target="" id="Point02"/>
+      <hotspot tilt="-6.52" description="" skinid="ht_node" title="Glasshouse 3" pan="-165.08" url="{node4}" target="" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" softedge="0" zoomfov="20" enabled="1" zoomspeed="2" zoomin="0" blendcolor="0x000000" blendtime="1" zoomoutpause="1" zoomout="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertwheel="0" lockedmouse="0" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" hideabout="0" rubberband="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" lockedwheel="0" speedwheel="1" lockedkeyboard="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node3">
+    <input overlap="1" levelingroll="0" height="4386" leveltilesize="510" width="4386" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="4386" width="4386" predecode="0" preload="0"/>
+      <level height="2193" width="2193" predecode="0" preload="0"/>
+      <level height="1096" width="1096" predecode="0" preload="0"/>
+      <level height="548" width="548" predecode="0" preload="0"/>
+      <level height="274" width="274" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" scaletofit="1" fov="120" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" tags="TIFF" description="" info="" longitude="" heading="0" title="Glasshouse 4" source="" datetime="10/7/2021 2:36 PM" author="Joel V. Garcia" copyright="@ 2017" customnodeid="" latitude="" nodeid="node3"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label wordwrap="1" enabled="1" height="20" textalpha="1" width="180" backgroundalpha="1" borderalpha="1" background="1" borderradius="1" textcolor="0x000000" bordercolor="0x000000" backgroundcolor="0xffffff" border="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-12.49" description="" skinid="ht_node" title="Glasshouse 5" pan="-81.94" url="{node2}" target="" id="Point01"/>
+      <hotspot tilt="-14.08" description="" skinid="ht_node" title="Glasshouse 3" pan="-274.79" url="{node4}" target="" id="Point02"/>
+      <hotspot tilt="-7.71" description="" skinid="ht_node" title="Glasshouse 1" pan="-114.77" url="{node5}" target="" id="Point03"/>
+      <hotspot tilt="-6.45" description="" skinid="ht_node" title="Glasshouse 2" pan="-242.83" url="{node7}" target="" id="Point04"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" softedge="0" zoomfov="20" enabled="1" zoomspeed="2" zoomin="0" blendcolor="0x000000" blendtime="1" zoomoutpause="1" zoomout="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertwheel="0" lockedmouse="0" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" hideabout="0" rubberband="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" lockedwheel="0" speedwheel="1" lockedkeyboard="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node4">
+    <input overlap="1" levelingroll="0" height="4344" leveltilesize="510" width="4344" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="4344" width="4344" predecode="0" preload="0"/>
+      <level height="2172" width="2172" predecode="0" preload="0"/>
+      <level height="1086" width="1086" predecode="0" preload="0"/>
+      <level height="543" width="543" predecode="0" preload="0"/>
+      <level height="271" width="271" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" scaletofit="1" fov="120" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" tags="TIFF" description="" info="" longitude="" heading="0" title="Glasshouse 3" source="" datetime="10/7/2021 2:43 PM" author="Joel V. Garcia" copyright="@ 2017" customnodeid="" latitude="" nodeid="node4"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label wordwrap="1" enabled="1" height="20" textalpha="1" width="180" backgroundalpha="1" borderalpha="1" background="1" borderradius="1" textcolor="0x000000" bordercolor="0x000000" backgroundcolor="0xffffff" border="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-12.67" description="" skinid="ht_node" title="Glasshouse 4" pan="-100.87" url="{node3}" target="" id="Point01"/>
+      <hotspot tilt="-14.18" description="" skinid="ht_node" title="Glasshouse 2" pan="-200.06" url="{node7}" target="" id="Point02"/>
+      <hotspot tilt="-8.3" description="" skinid="ht_node" title="Glasshouse 1" pan="-166.49" url="{node5}" target="" id="Point03"/>
+      <hotspot customimage="media/_56A4277-HDR Panorama.jpg" distance3D="57150.3" tilt="49.9" use3D="1" description="" customimagewidth="10000" skinid="ht_node" customimageheight="5000" title="" fov="10" pan="246.36" url="{node2}" target="" id="Point04"/>
+      <hotspot tilt="-5.65" description="" skinid="ht_node" title="Glasshouse 5" pan="-93.62" url="{node2}" target="" id="Point05"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" softedge="0" zoomfov="20" enabled="1" zoomspeed="2" zoomin="0" blendcolor="0x000000" blendtime="1" zoomoutpause="1" zoomout="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertwheel="0" lockedmouse="0" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" hideabout="0" rubberband="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" lockedwheel="0" speedwheel="1" lockedkeyboard="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node7">
+    <input overlap="1" levelingroll="0" height="4335" leveltilesize="510" width="4335" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="4335" width="4335" predecode="0" preload="0"/>
+      <level height="2167" width="2167" predecode="0" preload="0"/>
+      <level height="1083" width="1083" predecode="0" preload="0"/>
+      <level height="541" width="541" predecode="0" preload="0"/>
+      <level height="270" width="270" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" scaletofit="1" fov="120" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" tags="TIFF" description="" info="" longitude="" heading="0" title="Glasshouse 2" source="" datetime="10/7/2021 3:03 PM" author="Joel V. Garcia" copyright="@ 2017" customnodeid="" latitude="" nodeid="node7"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label wordwrap="1" enabled="1" height="20" textalpha="1" width="180" backgroundalpha="1" borderalpha="1" background="1" borderradius="1" textcolor="0x000000" bordercolor="0x000000" backgroundcolor="0xffffff" border="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-13.24" description="" skinid="ht_node" title="Glasshouse 3" pan="-304.79" url="{node4}" target="" id="Point01"/>
+      <hotspot tilt="-13.95" description="" skinid="ht_node" title="Glasshouse 1" pan="-45.06" url="{node5}" target="" id="Point02"/>
+      <hotspot tilt="-8.87" description="" skinid="ht_node" title="Glasshouse 4" pan="-336.79" url="{node3}" target="" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" softedge="0" zoomfov="20" enabled="1" zoomspeed="2" zoomin="0" blendcolor="0x000000" blendtime="1" zoomoutpause="1" zoomout="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertwheel="0" lockedmouse="0" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" hideabout="0" rubberband="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" lockedwheel="0" speedwheel="1" lockedkeyboard="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node5">
+    <input overlap="1" levelingroll="0" height="4310" leveltilesize="510" width="4310" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="4310" width="4310" predecode="0" preload="0"/>
+      <level height="2155" width="2155" predecode="0" preload="0"/>
+      <level height="1077" width="1077" predecode="0" preload="0"/>
+      <level height="538" width="538" predecode="0" preload="0"/>
+      <level height="269" width="269" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" scaletofit="1" fov="120" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" tags="TIFF" description="" info="" longitude="" heading="0" title="Glasshouse 1" source="" datetime="10/7/2021 2:54 PM" author="Joel V. Garcia" copyright="@ 2017" customnodeid="" latitude="" nodeid="node5"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label wordwrap="1" enabled="1" height="20" textalpha="1" width="180" backgroundalpha="1" borderalpha="1" background="1" borderradius="1" textcolor="0x000000" bordercolor="0x000000" backgroundcolor="0xffffff" border="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-8.83" description="" skinid="ht_node" title="Glasshouse 2" pan="-332.86" url="{node7}" target="" id="Point01"/>
+      <hotspot tilt="-4.13" description="" skinid="ht_node" title="Glasshouse 6" pan="-74.95" url="{node1}" target="" id="Point02"/>
+      <hotspot tilt="-7.35" description="" skinid="ht_node" title="Glasshouse 3" pan="-2.56" url="{node4}" target="" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" softedge="0" zoomfov="20" enabled="1" zoomspeed="2" zoomin="0" blendcolor="0x000000" blendtime="1" zoomoutpause="1" zoomout="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertwheel="0" lockedmouse="0" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" hideabout="0" rubberband="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" lockedwheel="0" speedwheel="1" lockedkeyboard="0" sensitivity="8"/>
+  </panorama>
+  <masternode>
+    <userdata comment="" tags="" description="" info="" longitude="" heading="0" title="" source="" datetime="" author="" copyright="" customnodeid="" latitude="" nodeid="master"/>
+  </masternode>
+</tour>
